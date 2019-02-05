@@ -1,0 +1,2 @@
+database my_db
+print ('Hello World')
